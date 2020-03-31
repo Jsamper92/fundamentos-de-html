@@ -1,0 +1,18 @@
+label,input{
+    display: block;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.hide-fieldset{
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+
+
+aside{
+    font-size: 100px;
+}
